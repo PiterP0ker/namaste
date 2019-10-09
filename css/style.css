@@ -109,12 +109,9 @@ article:hover img:nth-child(1) {
 article:hover {
 	background-color: #00C9CC;
 	color: #fff;
-	border: 5px solid #00C9CC;
 }
 
 
 article:hover  h2{
-	background-color: #00C9CC;
 	color: #fff;
-	border: 5px solid #00C9CC;
 }
